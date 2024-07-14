@@ -133,7 +133,7 @@ section{
 }
 .home {
   min-height: 100vh;
-  background: url('loll.jpg');
+  background: url('image/hompage.jpg');
   background-size: cover !important;
   background-position: center !important;
   position: relative;
